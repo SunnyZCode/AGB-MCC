@@ -1,4 +1,4 @@
-# **Multi-granularity collaborative clustering based on adaptive granular-balls**
+# **Multi-granularity collaborative clustering based on adaptive granular-balls(AGB-MCC)**
 
 If you find this repository useful for your research, please consider citing our paper:
 
